@@ -1,0 +1,23 @@
+# =====================
+# Frontend (React)
+# =====================
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+
+# =====================
+# Backend (Python)
+# =====================
+backend/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/.env
+
+# =====================
+# Common
+# =====================
+.DS_Store
+.env
+*.log
+.vscode/
+.idea/
