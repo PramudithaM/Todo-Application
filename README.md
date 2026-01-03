@@ -98,27 +98,5 @@ DELETE /todos/:id → Delete a todo
 
 Note: Adjust according to your backend implementation.
 
-Contributing
-
-Fork the repository
-
-Create a new branch (git checkout -b feature/your-feature)
-
-Commit your changes (git commit -m "Add new feature")
-
-Push to the branch (git push origin feature/your-feature)
-
-Create a Pull Request
-
-
 ---
 
-If you want, I can **also make a “cooler, colorful, and interactive README”** with:
-
-- Badges (build, license, GitHub stars)  
-- Screenshots  
-- Live demo link  
-
-It will make your GitHub repo **look professional**.  
-
-Do you want me to make that version too?
